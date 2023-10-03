@@ -1,0 +1,29 @@
+{
+  "kind": "singleType",
+  "collectionName": "about_uses",
+  "info": {
+    "singularName": "about-us",
+    "pluralName": "about-uses",
+    "displayName": "About-us",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Head": {
+      "type": "component",
+      "repeatable": true,
+      "component": "referencement.head"
+    },
+    "h1": {
+      "type": "string"
+    },
+    "Contenus": {
+      "type": "component",
+      "repeatable": true,
+      "component": "general-content.contenus"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_home_content_heads",
+  "info": {
+    "displayName": "Head",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "meta_name": {
+      "type": "string"
+    },
+    "meta_content": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}
